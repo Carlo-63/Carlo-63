@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Carlo Paglia
+# 👋 Hi, I'm Carlo
 
 🏠 Rome-based student passionate about **Computer Science**, currently studying **Information Technology and Telecommunications**.
 
