@@ -47,4 +47,4 @@ int main() {
 * 📫 Email: [carlo63yt@gmail.com](mailto:carlo63yt@gmail.com)
 * 🌐 Website: [https://carlopaglia.vercel.app/](https://carlopaglia.vercel.app/)
 
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+> *“Talk is cheap. Show me the code.”* – Linus Torvalds
