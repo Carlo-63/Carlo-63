@@ -45,6 +45,6 @@ int main() {
 ## 💬 Let's Connect
 
 * 📫 Email: [carlo63yt@gmail.com](mailto:carlo63yt@gmail.com)
-* 🌐 Website: [https://carlopaglia.vercel.app/](https://carlopaglia.vercel.app/)
+* 🔗 Linkedin: [Carlo Paglia](https://www.linkedin.com/in/carlo-paglia-9a3a1a2a0/)
 
 > *“Talk is cheap. Show me the code.”* – Linus Torvalds
