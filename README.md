@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Carlo
 
 🏠 Based in **Rome, Italy**.
+
 🎓 Education: High School Graduate in **Information Technology and Telecommunications**.
+
 📊 Grade: **100/100 cum laude**.
+
 💻 Passionate about **Computer Science** and **innovative tech solutions**.
 
 🌍 I love contributing to real-world tech projects and exploring technologies.
