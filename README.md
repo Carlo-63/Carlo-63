@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Carlo
 
-🏠 Rome-based student passionate about **Computer Science**, currently studying **Information Technology and Telecommunications**.
+🏠 Based in **Rome, Italy**.
+🎓 Education: High School Graduate in **Information Technology and Telecommunications**.
+📊 Grade: **100/100 cum laude**.
+💻 Passionate about **Computer Science** and **innovative tech solutions**.
 
 🌍 I love contributing to real-world tech projects and exploring technologies.
 
@@ -39,7 +42,8 @@ int main() {
 
 ## 🏅 Certifications
 
-* ✅ Cambridge English B2 (178/190)
+* ✅ Cambridge First Certificate in English (Score: 178/190)
+* ✅ Cisco IT Essentials
 * ✅ Web Developer (Next Generation Work – Score: 100)
 
 ## 💬 Let's Connect
